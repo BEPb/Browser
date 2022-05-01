@@ -43,3 +43,5 @@ To launch the GUI:
 python3 -m main
 ```
 
+[MIT](LICENSE.txt)
+
