@@ -1,5 +1,5 @@
 # Browser
-<b> Свой собственный блокнот написанный на питоне.</b>
+<b> Свой собственный браузер написанный на питоне.</b>
 <p>
   <img  src="https://img.shields.io/github/stars/BEPb/Browser" />
   <img src="https://img.shields.io/github/contributors/BEPb/Browser" />
@@ -19,7 +19,7 @@
 
 
 
-![GUI](images/Notepad.gif)
+![GUI](images/Browser.gif)
 
 
 ## Порядок установки и запуска                    

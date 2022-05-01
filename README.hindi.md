@@ -1,5 +1,5 @@
 # Browser
-<b> आपका अपना ब्राउज़र पायथन में लिखा गया है।</b>
+<b> Your own browser written in python</b>
 <p>
   <img  src="https://img.shields.io/github/stars/BEPb/Browser" />
   <img src="https://img.shields.io/github/contributors/BEPb/Browser" />
@@ -19,7 +19,7 @@ Read in other languages: [English](README.md), [Russian](README.ru.md), [中國�
 
 
 
-![GUI](images/Notepad.gif)
+![GUI](images/Browser.gif)
 
 
 ## कैसे स्थापित करें और चलाएं
