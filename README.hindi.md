@@ -1,4 +1,4 @@
-# NotePad
+# Browser
 <b> आपका अपना ब्राउज़र पायथन में लिखा गया है।</b>
 <p>
   <img  src="https://img.shields.io/github/stars/BEPb/Browser" />

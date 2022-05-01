@@ -1,4 +1,4 @@
-# NotePad
+# Browser
 <b> Your own browser written in python.</b>
 <p>
   <img  src="https://img.shields.io/github/stars/BEPb/Browser" />

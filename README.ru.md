@@ -1,5 +1,5 @@
-# NotePad
-<b> Свой собственный браузер написанный на питоне.</b>
+# Browser
+<b> Свой собственный блокнот написанный на питоне.</b>
 <p>
   <img  src="https://img.shields.io/github/stars/BEPb/Browser" />
   <img src="https://img.shields.io/github/contributors/BEPb/Browser" />
@@ -41,7 +41,7 @@ $    pip install -r requirements.txt
 ## Использование
 Чтобы запустить графический интерфейс:
 ```
-python main.py
+python3 -m main
 ```
 
 
