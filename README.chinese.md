@@ -22,7 +22,7 @@ Read in other languages: [English](README.md), [हिन्दी](README.hindi
 ![GUI](images/Browser.gif)
 
 
-##如何安裝和運行
+## 如何安裝和運行
 ____
 ### 克隆存儲庫
  
@@ -37,19 +37,19 @@ $ cd Browser
 $ pip install -r requirements.txt
 ```
 
-＃＃ 用法
+## 用法
 要啟動 GUI：
 ```
 python3 -m main
 ```
 
 
-＃＃ 項目發展
+## 項目發展
 歡迎提出項目開發請求。 對於重大更改，請先打開一個問題，以便
 討論你想改變什麼。
 ____
 
-＃＃ 執照
+## 執照
 
 
 [MIT](LICENSE.txt)
