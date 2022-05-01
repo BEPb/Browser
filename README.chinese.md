@@ -44,4 +44,4 @@ python3 -m main
 ```
 
 
-
+[MIT](LICENSE.txt)
